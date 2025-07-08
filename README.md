@@ -22,3 +22,15 @@ Never cook again!: Our subscriptions cover 365 days per year, even including maj
 Local and organic: Our cooks only use local, fresh, and organic products to prepare your meals.
 No waste: All our partners only use reusable containers to package all your meals.
 Pause anytime: Going on vacation? Just pause your subscription, and we refund unused days.
+
+## Sections
+
+- Logo + Navigation
+- Hero
+- Featured in
+- How it works
+- Meals (and list of diets)
+- Testimonials + Gallery
+- Pricing + Features
+- CTA
+- Footer
